@@ -41,6 +41,7 @@ A template to create Google Chrome Extensions with Webpack as the module-bundler
  - [babel-core](https://www.npmjs.com/package/babel-core), [babel-preset-env](https://www.npmjs.com/package/babel-preset-env) to support babel-loader
  - [eslint](https://www.npmjs.com/package/eslint), [babel-eslint](https://www.npmjs.com/package/babel-eslint), [eslint-config-airbnb](https://www.npmjs.com/package/eslint-config-airbnb), [eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import), [eslint-plugin-jsx-a11y](https://www.npmjs.com/package/eslint-plugin-jsx-a11y) and [eslint-plugin-react](https://www.npmjs.com/package/eslint-plugin-react) to support eslint-loader in running ESLint to lint JavaScript files
  - [less](https://www.npmjs.com/package/less) to help less-loader with transpilation of Less CSS into regular CSS
+ - [effortless-css](https://www.npmjs.com/package/effortless-css) to provide Less CSS mixins
  - [webpack-merge](https://www.npmjs.com/package/webpack-merge) to be able to use a common configuration across *dev* and *prod*
  - [webpack-dev-server](https://www.npmjs.com/package/webpack-dev-server) to be able to live-reload the web-browser when run in *live* mode.
 
