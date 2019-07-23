@@ -4,7 +4,7 @@
 [![Dependency Status](https://david-dm.org/myTerminal/template-chrome-extension-webpack.svg)](https://david-dm.org/myTerminal/template-chrome-extension-webpack)
 [![devDependency Status](https://david-dm.org/myTerminal/template-chrome-extension-webpack/dev-status.svg)](https://david-dm.org/myTerminal/template-chrome-extension-webpack#info=devDependencies)
 [![peer Dependency Status](https://david-dm.org/myTerminal/template-chrome-extension-webpack/peer-status.svg)](https://david-dm.org/myTerminal/template-chrome-extension-webpack#info=peerDependencies)  
-[![License](https://img.shields.io/badge/LICENSE-GPL%20v3.0-blue.svg)](https://www.gnu.org/licenses/gpl.html)
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 A template to create Google Chrome Extensions with Webpack as the module-bundler
 
