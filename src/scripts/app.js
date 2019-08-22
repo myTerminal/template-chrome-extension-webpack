@@ -2,6 +2,9 @@
 
 import '../styles/styles.less';
 
-window.addEventListener('load', function () {
-    document.body.innerHTML += '\nAnd it works!';
-});
+window.addEventListener(
+    'load',
+    () => {
+        document.body.innerHTML += '\nAnd it works!';
+    }
+);
